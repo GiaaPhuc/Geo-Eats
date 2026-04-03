@@ -17,7 +17,7 @@ export default async function HomePage() {
     <div className="min-h-screen bg-[#fafafa] p-8 md:p-16">
       <header className="mb-16">
         <h1 className="text-7xl font-black italic tracking-tighter text-slate-900">
-          FOODYDSEY
+          GEO_EATS
         </h1>
         <p className="text-slate-400 font-bold uppercase tracking-widest mt-2 ml-1 text-[10px]">
           District 1 Explorer
