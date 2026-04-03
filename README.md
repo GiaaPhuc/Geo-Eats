@@ -1,4 +1,5 @@
 📍 GEO-EATS - District 1 Gastronomy Explorer
+
 GEO-EATS là một ứng dụng Web Fullstack hỗ trợ khám phá ẩm thực tại Quận 1, TP. Hồ Chí Minh với khả năng tích hợp bản đồ thời gian thực. Hệ thống tự động thu thập dữ liệu từ vệ tinh và cung cấp trải nghiệm điều hướng mượt mà cho người dùng.
 
 🚀 Tính năng chính
