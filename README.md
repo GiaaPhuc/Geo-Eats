@@ -32,7 +32,7 @@
 
 ## 📂 Cấu trúc dự án
 
-````text
+```text
 GEO-EATS/
 ├── backend/                # FastAPI Services & Data Logic
 │   ├── crawler.py          # Script thu thập dữ liệu từ OSM
@@ -45,6 +45,7 @@ GEO-EATS/
 ├── docker-compose.yml      # Quản lý dịch vụ Database & Cache
 ├── run.bat                 # Script tự động hóa khởi chạy hệ thống
 └── README.md               # Tài liệu dự án
+```
 
 ---
 
@@ -64,7 +65,7 @@ GEO-EATS/
 cd frontend
 npm install
 cd ..
-````
+```
 
 **Bước 2: Chạy hệ thống bằng Script tự động**
 Mở Terminal tại thư mục gốc và gõ lệnh:
